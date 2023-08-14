@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-05T10:54:10 IST" name="Default suite" finished-at="2023-08-05T11:02:52 IST" duration-ms="522080">
+    <groups>
+    </groups>
+    <test started-at="2023-08-05T10:54:10 IST" name="Default test" finished-at="2023-08-05T11:02:52 IST" duration-ms="522080">
+      <class name="org.cart.Cart">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:54:10 IST" name="launchbrowser" finished-at="2023-08-05T10:54:41 IST" duration-ms="30939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="tc1001()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:54:41 IST" name="tc1001" finished-at="2023-08-05T10:55:13 IST" duration-ms="32034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1001 -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:55:13 IST" name="closebrowser" finished-at="2023-08-05T10:55:15 IST" duration-ms="1300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:55:15 IST" name="launchbrowser" finished-at="2023-08-05T10:55:20 IST" duration-ms="5385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="tc1002()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:55:20 IST" name="tc1002" finished-at="2023-08-05T10:55:42 IST" duration-ms="22190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1002 -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:55:42 IST" name="closebrowser" finished-at="2023-08-05T10:55:43 IST" duration-ms="1123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:55:43 IST" name="launchbrowser" finished-at="2023-08-05T10:55:50 IST" duration-ms="6093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="tc1003()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:55:50 IST" name="tc1003" finished-at="2023-08-05T10:57:17 IST" duration-ms="87007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1003 -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:57:17 IST" name="closebrowser" finished-at="2023-08-05T10:57:18 IST" duration-ms="1637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:57:18 IST" name="launchbrowser" finished-at="2023-08-05T10:57:23 IST" duration-ms="4841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="tc1004()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:57:23 IST" name="tc1004" finished-at="2023-08-05T10:58:43 IST" duration-ms="80230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1004 -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:58:43 IST" name="closebrowser" finished-at="2023-08-05T10:58:45 IST" duration-ms="1464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:58:45 IST" name="launchbrowser" finished-at="2023-08-05T10:58:50 IST" duration-ms="5442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="tc1005()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T10:58:50 IST" name="tc1005" finished-at="2023-08-05T11:00:04 IST" duration-ms="73499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1005 -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T11:00:04 IST" name="closebrowser" finished-at="2023-08-05T11:00:05 IST" duration-ms="1818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T11:00:05 IST" name="launchbrowser" finished-at="2023-08-05T11:00:10 IST" duration-ms="4526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="tc1006()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T11:00:10 IST" name="tc1006" finished-at="2023-08-05T11:01:24 IST" duration-ms="73844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1006 -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T11:01:24 IST" name="closebrowser" finished-at="2023-08-05T11:01:25 IST" duration-ms="1378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T11:01:25 IST" name="launchbrowser" finished-at="2023-08-05T11:01:31 IST" duration-ms="5722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="tc1009()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T11:01:31 IST" name="tc1009" finished-at="2023-08-05T11:02:51 IST" duration-ms="79929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1009 -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:org.cart.Cart@b9b00e0]" started-at="2023-08-05T11:02:51 IST" name="closebrowser" finished-at="2023-08-05T11:02:52 IST" duration-ms="1400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- org.cart.Cart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
